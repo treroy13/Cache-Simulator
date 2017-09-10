@@ -1,0 +1,1 @@
+Simulates the direct mapped, set associative, fully associative lru, fully associative hot cold, set associative no write miss allocation, set associative next line prefetching, and set associative prefetch on a miss cache.
